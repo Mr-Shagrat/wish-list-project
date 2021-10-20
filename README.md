@@ -1,4 +1,4 @@
-# trade_goods
+# wish-list
 
 ## Project setup
 ```
